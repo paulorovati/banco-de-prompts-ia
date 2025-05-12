@@ -20,6 +20,7 @@ Exemplo de "prompt perfeito" usando os "4Is" para criar um post viral no Instagr
 FITA: Ter ideias; Aprender; Pensar; Escrever. Este acrônimo ajuda a lembrar as principais formas de utilizar a IA generativa de maneira eficaz.
 
 **Ter ideias: Brainstorming com IA**
+
 Para gerar ideias, você pode usar prompts como este: 
 
 🤖 "Queremos mitigar o nosso risco de depender demais das vendas no varejo físico. Pensando na minha empresa, quero que você me dê 10 ideias de canais de marketing que pretendemos usar para promover nossos produtos."
@@ -67,6 +68,7 @@ A técnica da escala é uma forma de interação com a IA para tornar as ideias 
 🤖 "Quero criar um anúncio viral pra nossa loja, algo que viralize na nossa cidade. Como você pensaria sobre isso?"
 
 **Aplicando a técnica de escala**
+
 Após receber as primeiras ideias de IA, você pode usar uma técnica de escala para obter ideias mais ousadas. Exemplo de prompt: 
 
 🤖 "Se tivermos uma escala em que 1 é uma ideia nada ousada e 10 é extremamente ousada, as suas ideias tiveram uma nota 5. Quero que você busque ideias nota 10 nessa escala."
