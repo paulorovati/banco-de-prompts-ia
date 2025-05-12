@@ -8,6 +8,7 @@ Por exemplo, dar tarefas a um funcionário: explicar o contexto maior ajuda na c
 **Aplicação Prática do Framework**
 
 Exemplo de "prompt perfeito" usando os "4Is" para criar um post viral no Instagram: 
+
 🤖 "Meu objetivo é criar um post que viralize no Instagram. Me ajude a pensar sobre como podemos fazer isso. Leve em consideração esses detalhes da minha empresa: [inserir detalhes]. [Após a resposta da IA]. Seja mais ousado.
 
 
