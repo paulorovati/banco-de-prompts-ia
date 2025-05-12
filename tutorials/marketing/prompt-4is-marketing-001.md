@@ -5,13 +5,13 @@ Instrução: A parte que todos já conhecem, o verbo de ação ou a tarefa espec
 Informação: Contexto adicional necessário para a IA te ajudar melhor. Exemplo de usar um framework (8 Rs de planejamento) como informação adicional no prompt.
 Interação: Dar feedback para a IA, revisar e melhorar o que ela entregou. Importância de não desistir se o primeiro resultado não for satisfatório, mas sim interagir para melhorar a resposta.
 
-Aplicação Prática do Framework
+**Aplicação Prática do Framework**
 
 Exemplo de "prompt perfeito" usando os "4Is" para criar um post viral no Instagram:
 🤖 "Meu objetivo é criar um post que viralize no Instagram. Me ajude a pensar sobre como podemos fazer isso. Leve em consideração esses detalhes da minha empresa: [inserir detalhes]. [Após a resposta da IA] Seja mais ousado.
 
 
-As 4 atividades-chave da IA generativa
+#As 4 atividades-chave da IA generativa**
 T.A.P.E: 
 Ter ideias;
 Aprender;
