@@ -10,6 +10,7 @@ Por exemplo, dar tarefas a um funcionário: explicar o contexto maior ajuda na c
 **Interação:** Dar feedback para a IA, revisar e melhorar o que ela entregou. Importância de não desistir se o primeiro resultado não for esmagador, mas sim interagir para melhorar a resposta.
 
 **Aplicação Prática do Framework**
+
 Exemplo de "prompt perfeito" usando os "4Is" para criar um post viral no Instagram: 
 
 🤖 "Meu objetivo é criar um post que viralize no Instagram. Me ajude a pensar sobre como podemos fazer isso. Leve em consideração esses detalhes da minha empresa: [inserir detalhes]. [Após a resposta da IA]. Seja mais ousado.
@@ -28,6 +29,7 @@ Outro exemplo de prompt para geração de ideias:
 🤖 "Queremos tornar nossa newsletter a melhor do mundo para líderes e empreendedores acima de 35 anos. Simule uma conversa entre Steve Jobs e Tim Ferriss sobre como seria a newsletter perfeita sobre IA generativa para esse público. Pense passo a passo."
 
 **Aprender: Utilizando IA como ferramenta de aprendizagem**
+
 Para aprender com a IA, você pode usar prompts como: 
 
 🤖 "Quero perder 5 kg de gordura em 30 dias baseado em referências científicas. Me apresenta alguns métodos possíveis para chegar nisso e faça as perguntas fáceis para conseguir me ajudar ao máximo."
@@ -35,6 +37,7 @@ Para aprender com a IA, você pode usar prompts como:
 Uma dica importante é pedir à IA que faça perguntas para obter as informações necessárias. Isso se alinha com o framework dos 4 I's (Intenção, Instrução, Informação, Interação) e ajuda a IA a fornecer respostas mais precisas e úteis.
 
 **Pensar: IA como parceiro de pensamento**
+
 Para usar a IA como ferramenta de pensamento, experimente sugestões como: 
 
 🤖 "Queremos diversificar nosso portfólio de produtos da PetTV. Temos essa ideia para nossa nova unidade de negócios. Que posições ocultas estamos assumindo para que ela seja um sucesso?"
@@ -44,6 +47,7 @@ Exemplo de prompt para pensar junto com a IA:
 🤖 "Queremos validar essa ideia de negócios. Baseado no que você sabe sobre hábitos de compra de mercado, quais tipos de pessoas têm mais potencial para investir de R$20.000 a R$200.000 em jardins internos de apartamento? Descreva bem essas pessoas, seus hábitos, o que mais elas compram, e o que elas gostariam no jardim interno e por quê. Pense passo a passo."
 
 **Escritor: Criando conteúdo com IA**
+
 Para usar a IA na escrita, você pode experimentar prompts como: 
 
 🤖 "Nosso objetivo é ter um anúncio digno de Super Bowl. Imagine um anúncio de 30 segundos que será rodado no Instagram para um público que não conhece minha marca, para o produto que eu acabei de descrever. O anúncio precisa parecer ter sido feito pelo time de marketing da Apple e deve terminar em 'Na natureza, não sobreviveu o mais forte, mas quem se adapta. Ainda Você está na natureza. Adapta rapidamente ao mundo que muda cada vez mais'."
@@ -77,6 +81,7 @@ Exemplo de prompt inicial para gerar ideias:
 Ter ideias:- Crie;- Tenha;- Use;- Simule. Aprender:- Currículo; - Ensina; -Como; - Por isso. Pensar:- Formatar;- Analisar; - Ranqueie; - Argumente. Escrever:- Escreva; - Completo; - Mude;- Traduza;- Reescreva.
 
 ### Aplicando a técnica para uma agência de marketing
+
 Adaptando o prompt para uma agência de marketing especializada em dentistas: 
 
 🤖 Quero ter ideia de como usar o adapt One na minha empresa. Para cada palavra aqui, me dê uma ideia de prompt que posso usar.
@@ -84,12 +89,14 @@ Adaptando o prompt para uma agência de marketing especializada em dentistas:
  Ter ideias:- Crie;- Tenha;- Use;- Simule. Aprender:- Currículo; - Ensina; -Como; - Por isso. Pensar:- Formatar;- Analisar; - Ranqueie; - Argumente. Escrever:- Escreva; - Completo; - Mude;- Traduza;- Reescreva.
  
 **Exemplos de ideias geradas pela IA:**
+
 Ter ideias: "Crie uma lista de 10 ideias inovadoras para vídeos de dentistas que se destacam na timeline do Instagram.
 " Aprender: "Ensine técnicas eficazes de precificação para serviços de marketing digital considerando o mercado de dentistas e médicos.
 " Pensar: "Forme um plano para aumentar a produtividade da equipe nos próximos seis meses.
 " Escrever: "Escreva um e-mail persuasivo para potenciais clientes dentistas, destacando os benefícios exclusivos de nossos serviços."
 
 **Aprofundando-se em áreas específicas**
+
 Para obter ideias mais específicas, você pode refinar seu prompt: 
 
 🤖 "Legal, agora para a categoria de escrever, dê-me mais ideias específicas para a produção de vídeos."
