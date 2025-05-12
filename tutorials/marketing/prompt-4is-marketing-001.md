@@ -1,4 +1,4 @@
-## 4Is para Prompts Perfeitos: Criando Posts Virais no Instagram
+### 4Is para Prompts Perfeitos: Criando Posts Virais no Instagram
 
 Intenção: Explicar seu objetivo para a IA antes de dar a instrução. Por exemplo, dar tarefas a um funcionário: explicar o contexto maior ajuda na compreensão e na entrega de melhores resultados.
 Instrução: A parte que todos já conhecem, o verbo de ação ou a tarefa específica que você está pedindo para a IA realizar.
@@ -11,7 +11,7 @@ Exemplo de "prompt perfeito" usando os "4Is" para criar um post viral no Instagr
 🤖 "Meu objetivo é criar um post que viralize no Instagram. Me ajude a pensar sobre como podemos fazer isso. Leve em consideração esses detalhes da minha empresa: [inserir detalhes]. [Após a resposta da IA] Seja mais ousado.
 
 
-## As 4 atividades-chave da IA generativa
+### As 4 atividades-chave da IA generativa
 T.A.P.E: 
 Ter ideias;
 Aprender;
@@ -58,7 +58,7 @@ Apple e deve terminar em 'Na natureza, não sobrevive o mais forte, mas quem se 
 muda cada vez mais rapidamente'."
 
 
-## Técnicas para ter ideias com IA - Simulação de conversa entre tutores de cães
+### Técnicas para ter ideias com IA - Simulação de conversa entre tutores de cães
 
 🤖 "Quero ter ideia de Novos Produtos para solucionar problemas que nossos produtos não solucionam hoje. Você vai simular uma conversa no 
 parque entre quatro tutores de cachorros com diferentes raças, em que cada um tem um diferente problema comum."
@@ -73,7 +73,7 @@ A IA cria uma conversa realista onde um tutor compartilha sua experiência posit
 ceticismo inicial, mas acabam se interessando pelo produto.
 
 
-## A técnica da escala para aprimorar ideias
+### A técnica da escala para aprimorar ideias
 
 A técnica da escala é uma forma de interação com a IA para tornar as ideias mais interessantes ou ousadas. Ela se encaixa no último "I" do 
 framework dos 4Is: Interação. Exemplo inicial de prompt para gerar ideias: 
@@ -89,7 +89,7 @@ busque ideias nota 10 nessa escala."
 Esta técnica pode ser aplicada para obter ideias mais controversas, originais, factíveis ou criativas, dependendo do que você busca.
 
 
-## Usando IA para gerar ideias de uso de IA
+### Usando IA para gerar ideias de uso de IA
 
 Exemplo de prompt inicial para gerar ideias: 
 🤖 Quero mostrar aos professores da faculdade de Belas Artes ideias de como seus alunos podem usar LLMs. Para isso, vou te mandar alguns 
@@ -116,7 +116,7 @@ Pensar: "Formate um plano para aumentar a produtividade da equipe nos próximos 
 Escrever: "Escreva um e-mail persuasivo para potenciais clientes dentistas, destacando os benefícios únicos dos nossos serviços."
 
 
-##Aprofundando em áreas específicas
+### Aprofundando em áreas específicas
 
 Para obter ideias mais específicas, você pode refinar seu prompt: 
 🤖 "Legal, agora para a categoria de escrever, me dê mais ideias relacionadas especificamente para a produção dos vídeos."
