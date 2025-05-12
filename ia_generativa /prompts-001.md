@@ -2,7 +2,6 @@
 
 **Intenção:** Explique seu objetivo para a IA antes de dar uma instrução. 
 Por exemplo, dar tarefas a um funcionário: explicar o contexto maior ajuda na compreensão e na entrega de melhores resultados. 
-
 **Instrução:** A parte que todos já conhecem, o verbo de ação ou a tarefa específica que você está exigindo para a IA realizar. **Informação:** Contexto adicional necessário para que a IA te ajude melhor. Exemplo de uso de um framework (8 Rs de planejamento) como informação adicional no prompt. 
 **Interação:** Dar feedback para a IA, revisar e melhorar o que ela entregou. Importância de não desistir se o primeiro resultado não for esmagador, mas sim interagir para melhorar a resposta.
 
