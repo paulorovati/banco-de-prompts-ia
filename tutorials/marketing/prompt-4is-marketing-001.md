@@ -58,7 +58,7 @@ Apple e deve terminar em 'Na natureza, não sobrevive o mais forte, mas quem se 
 muda cada vez mais rapidamente'."
 
 
-##Técnicas para ter ideias com IA - Simulação de conversa entre tutores de cães
+## Técnicas para ter ideias com IA - Simulação de conversa entre tutores de cães
 
 🤖 "Quero ter ideia de Novos Produtos para solucionar problemas que nossos produtos não solucionam hoje. Você vai simular uma conversa no 
 parque entre quatro tutores de cachorros com diferentes raças, em que cada um tem um diferente problema comum."
@@ -73,7 +73,7 @@ A IA cria uma conversa realista onde um tutor compartilha sua experiência posit
 ceticismo inicial, mas acabam se interessando pelo produto.
 
 
-##A técnica da escala para aprimorar ideias
+## A técnica da escala para aprimorar ideias
 
 A técnica da escala é uma forma de interação com a IA para tornar as ideias mais interessantes ou ousadas. Ela se encaixa no último "I" do 
 framework dos 4Is: Interação. Exemplo inicial de prompt para gerar ideias: 
@@ -89,7 +89,7 @@ busque ideias nota 10 nessa escala."
 Esta técnica pode ser aplicada para obter ideias mais controversas, originais, factíveis ou criativas, dependendo do que você busca.
 
 
-##Usando IA para gerar ideias de uso de IA
+## Usando IA para gerar ideias de uso de IA
 
 Exemplo de prompt inicial para gerar ideias: 
 🤖 Quero mostrar aos professores da faculdade de Belas Artes ideias de como seus alunos podem usar LLMs. Para isso, vou te mandar alguns 
