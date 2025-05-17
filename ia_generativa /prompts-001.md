@@ -368,6 +368,23 @@ Usando IA para entender conceitos jurídicos complexos
 Para isso, comece lendo o documento em anexo que está o site da minha empresa e me faça cinco perguntas para chegarmos na personalidade perfeita."
 
 
+### Descobrindo novos jeitos de vender
+
+🤖 "Quero encontrar maneiras novas de vender meus serviços para você. Quero que você pense em outras formas que eu posso chamar a sua atenção, criar desejo pela Rovati Tech e fazer com que você compre o meu produto. Atualmente o principal meio de venda que eu utilizo é através de funis de anúncio e VSL, onde eu veiculo anúncios no Facebook/Instagram chamando a pessoa para uma aula. Nessa aula ensino algum conteúdo e faço um pitch no final. Quero que você se concentre em formas de vender que sejam possíveis de serem executadas pela internet."
+
+Feedback dado após a primeira resposta da IA:
+
+🤖 "As ideias são genéricas, quero algo mais específico e que tenha potencial de conversão quase imediato. Ou seja, a pessoa vai ser impactada por aquilo e vai fechar a compra na hora, coisa que não aconteceria por exemplo com conteúdos gratuitos, quizzes, etc."
+
+🤖 "Gostei da ideia dois, mas ela possui uma barreira de entrada. Para escalar, para vender para mais pessoas, eu preciso de muitas pessoas fazendo calls também. Como que a gente pode deixar o mais low touch (automatizada) possível?"
+
+**Técnica do "livro de marketing" para ideias inovadoras**
+
+🤖 "Para pensar nas próximas ideias, simule que o nosso cliente está lendo um livro de marketing com várias ideias específicas e interessantes, onde ele pensa 'nossa, se a Rovati Tech fizesse isso, com certeza eu compraria'."
+
+
+
+
 
 
 
