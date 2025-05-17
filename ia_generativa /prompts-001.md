@@ -362,6 +362,10 @@ Usando IA para entender conceitos jurídicos complexos
 🤖 "Quais são cláusulas convencionais em deals como esse, mas que podem passar despercebidas e serem muito prejudiciais ao vendedor?"
 
 
+### Criando um clone do seu cliente
+
+🤖 "Quero que você simule o meu cliente, que pense como ele, que fale como ele, que aja como ele, tenha os mesmos medos, desejos e tudo mais que ele tem.
+Para isso, comece lendo o documento em anexo que está o site da minha empresa e me faça cinco perguntas para chegarmos na personalidade perfeita."
 
 
 
