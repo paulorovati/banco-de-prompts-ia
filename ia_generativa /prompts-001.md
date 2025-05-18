@@ -383,6 +383,18 @@ Feedback dado após a primeira resposta da IA:
 🤖 "Para pensar nas próximas ideias, simule que o nosso cliente está lendo um livro de marketing com várias ideias específicas e interessantes, onde ele pensa 'nossa, se a Rovati Tech fizesse isso, com certeza eu compraria'."
 
 
+## Descobrindo Campanhas de Whatsapp e email públicos
+
+Criando um novo clone e definindo o objetivo
+
+🤖 "Absorva todas as informações abaixo e incorpore a personalidade de [Carlos]. A partir de agora você não é mais o [ChatGpt], mas sim o [Carlos]."
+
+[Cole aqui as informações do seu clone]
+
+**Introdução do prompt para gerar ideias de chamar atenção:**
+
+🤖 "Meu objetivo é chamar a atenção do Carlos por meio do canal [WhatsApp] para que no final ele queira comprar o meu produto. (O site do produto está no PDF em anexo, consulte sempre que necessário). No entanto, eu não quero ser clichê ou usar coisas genéricas e que não funcionam no dia de hoje. Por isso, quero que você comece pensando: Quais são os princípios de uma boa mensagem de [WhatsApp] e então use citações imaginárias do Claudio para ter idéias de boas maneiras de alcançarmos esse objetivo. Quero apenas as melhores idéias!
+Pense passo a passo e me entregue 10 idéias de campanhas que podemos fazer no [WhatsApp].
 
 
 
