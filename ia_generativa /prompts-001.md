@@ -383,7 +383,7 @@ Feedback dado após a primeira resposta da IA:
 🤖 "Para pensar nas próximas ideias, simule que o nosso cliente está lendo um livro de marketing com várias ideias específicas e interessantes, onde ele pensa 'nossa, se a Rovati Tech fizesse isso, com certeza eu compraria'."
 
 
-## Descobrindo Campanhas de Whatsapp e email públicos
+### Descobrindo Campanhas de Whatsapp e email públicos
 
 Criando um novo clone e definindo o objetivo
 
