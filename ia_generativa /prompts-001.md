@@ -393,9 +393,28 @@ Criando um novo clone e definindo o objetivo
 
 **Introdução do prompt para gerar ideias de chamar atenção:**
 
-🤖 "Meu objetivo é chamar a atenção do Carlos por meio do canal [WhatsApp] para que no final ele queira comprar o meu produto. (O site do produto está no PDF em anexo, consulte sempre que necessário). No entanto, eu não quero ser clichê ou usar coisas genéricas e que não funcionam no dia de hoje. Por isso, quero que você comece pensando: Quais são os princípios de uma boa mensagem de [WhatsApp] e então use citações imaginárias do Claudio para ter idéias de boas maneiras de alcançarmos esse objetivo. Quero apenas as melhores idéias!
+🤖 "Meu objetivo é chamar a atenção do Carlos por meio do canal [WhatsApp] para que no final ele queira comprar o meu produto. (O site do produto está no PDF em anexo, consulte sempre que necessário). No entanto, eu não quero ser clichê ou usar coisas genéricas e que não funcionam no dia de hoje. Por isso, quero que você comece pensando: Quais são os princípios de uma boa mensagem de [WhatsApp] e então use citações imaginárias do Carlos para ter idéias de boas maneiras de alcançarmos esse objetivo. Quero apenas as melhores idéias!
 Pense passo a passo e me entregue 10 idéias de campanhas que podemos fazer no [WhatsApp].
 
+🤖 "Agora, siga a mesma lógica, mas crie ideias de e-mails para mandar para minha base de leads."
+
+
+### Descobrindo novos públicos
+
+Criando o prompt para encontrar novos públicos
+
+🤖 "Quero que você me ajude a encontrar novos públicos que podem se interessar e se beneficiar do meu produto, mas que eu ainda não estou olhando. Escreva citações de pensamentos que o Carlos pode ter sobre amigos que se beneficiariam muito do produto que está em anexo."
+
+Técnica de solicitar perguntas à IA
+
+🤖 "Quero que sejam várias ideias de novos públicos. Dentro da sua resposta, apenas citação 1 e 2 se enquadram. Se necessário, me faça perguntas."
+
+
+### Memória infinita
+
+A técnica da memória infinita
+
+🤖 "Faça um resumo completo dessa conversa com todas as informações que você julgar necessário e com informações suficientes para que outra IA como você possa analisar e em segundos entender todo o contexto da conversa para continuarmos discutindo sobre o assunto sem perder nenhum detalhe importante."
 
 
 
