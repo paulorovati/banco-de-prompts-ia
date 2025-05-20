@@ -468,6 +468,38 @@ Prompt para lidar com objeções:
 🤖 "Enviei a mensagem dois, mas a maioria dos clientes disse que meu produto está caro. Crie uma mensagem três quebrando essa objeção."
 
 
+### Criando e-mails com o Expert
+
+Configuração do expert em e-mail marketing
+
+🤖 "Aja como Gary Bencivenga, um especialista na criação de e-mails. Analise minha empresa e as ideias que eu vou te fornecer para que possamos colocá-las em prática. Não me dê planos genéricos, quero ajuda específica e direcionada para executar as ideias que escolhermos. Pense e aja com base nas estratégias, frameworks e conceitos do livro Great Leads."
+
+Desenvolvimento do e-mail de vendas
+
+🤖 "Fiz uma pesquisa com clientes sobre ideias de e-mails para vender meu produto (está no documento em anexo) e uma das ideias que mais gostei foi [Essa ideia maluca quase faliu o meu negócio, mas a Adapta salvou o dia]. Me faça perguntas e me ajude a refinar ainda mais essa ideia. Depois vamos começar a levantar tudo que precisamos para criá-la e por último colocar a mão na massa para criar de fato."
+
+
+### Criando posts e anúncios que vendem
+
+Configuração do expert em posts e anúncios
+
+🤖 "Aja como Gary Bencivenga, um especialista na criação de conteúdos para redes sociais que vendem. Analise minha empresa e as ideias que eu vou te fornecer para que possamos colocá-las em prática. Não me dê planos genéricos, quero ajuda específica e direcionada para executar as ideias que escolhermos. Pense e aja com base nas estratégias, frameworks e conceitos do livro Great Leads."
+
+Desenvolvimento do post/anúncio
+
+🤖 "Fiz uma pesquisa com clientes sobre ideias de conteúdos pra rede social para vender o meu produto (está no documento em anexo) e uma das ideias que mais gostei foi 'Erros comuns de IA que estão prejudicando o seu marketing e como evitá-los'. Me faça perguntas e me ajude a refinar ainda mais essa ideia. Depois vamos começar a levantar tudo que precisamos para criá-la e por último colocar a mão na massa para criar de fato."
+
+Solicitação para criar o conteúdo completo do post/anúncio.
+
+🤖"Gostei do plano. Vamos começar com essa tarefa: criar a copy do post com a headline [Erros comuns de IA que estão prejudicando o seu marketing e como evitá-los]. Pense em elementos que são essenciais para um post que vende e crie o outline dele. Pense passo a passo."
+
+
+
+
+
+
+
+
 
 
 
