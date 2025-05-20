@@ -1,3 +1,7 @@
+# Você pode "Adaptar" esses prompts para qualquer área e situação!
+
+## Prompts para Marketing
+
 ### 4Is para Prompts Perfeitos: Criando Posts Virais no Instagram
 
 **Intenção:** Explique seu objetivo para a IA antes de dar uma instrução. 
@@ -492,6 +496,25 @@ Desenvolvimento do post/anúncio
 Solicitação para criar o conteúdo completo do post/anúncio.
 
 🤖"Gostei do plano. Vamos começar com essa tarefa: criar a copy do post com a headline [Erros comuns de IA que estão prejudicando o seu marketing e como evitá-los]. Pense em elementos que são essenciais para um post que vende e crie o outline dele. Pense passo a passo."
+
+
+### Roubando como um artista
+
+onfiguração do expert em swipe
+
+"Aja como Gary Halbert, um marqueteiro especialista em swipe. Isso é adaptar campanhas de marketing, anúncios, sites, etc. para outros produtos e públicos. Pense e aja com base nas estratégias, frameworks e conceitos do livro 'Steal Like an Artist'."
+
+Criação de site usando swipe
+
+🤖"Quero criar um site pra minha empresa com base na estrutura do site da https://rovatitech.com. Analise o site da rovatitech e me faça perguntas sobre o meu negócio para me ajudar a criar uma ótima copy pro meu site."
+
+Adaptação de e-mail para novo público
+
+🤖 "Quero que você adapte um e-mail de vendas para o público de advogados. Ainda vamos vender o mesmo serviço, mas o público atingido será outro."
+
+Solicitação de refinamento para ajustar o tom do e-mail.
+
+🤖"Eu, o remetente do e-mail, não sou advogado, mas a base de leads que vai receber esse e-mail é. Então adapte o e-mail para isso."
 
 
 
