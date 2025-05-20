@@ -417,6 +417,56 @@ A técnica da memória infinita
 🤖 "Faça um resumo completo dessa conversa com todas as informações que você julgar necessário e com informações suficientes para que outra IA como você possa analisar e em segundos entender todo o contexto da conversa para continuarmos discutindo sobre o assunto sem perder nenhum detalhe importante."
 
 
+### Criando seus Experts
+
+Recomendação de escolher uma personalidade referência no objetivo desejado.
+
+🤖 "Aja como Steve Jobs, um especialista em criação de produtos"
+
+
+### Como usar seu expert
+
+🤖"Aja como Russell Brunson, um especialista em criação de funis de vendas na internet. Analise minha empresa e as ideias que eu vou te fornecer para que possamos melhorá-las e colocá-las em prática. Não me dê planos genéricos, quero ajuda específica e direcionada para executar as ideias que escolhermos com o objetivo de ganhar mais dinheiro. Pense e aja com base nas estratégias, frameworks e conceitos do livro Startup Enxuta de Eric Ries."
+
+Execução da ideia de certificação profissional com IA
+
+🤖 "Fiz uma pesquisa com clientes sobre ideias de novos meios para vender o meu produto (está no documento em anexo) e uma das ideias que mais gostei foi [certificação profissional com IA]. Faça perguntas e me ajude a refinar ainda mais essa ideia. Depois vamos começar a levantar tudo que precisamos para criá-la e por último colocar a mão na massa para criar de fato."
+
+Criação da landing page
+
+🤖 "Gostei do plano. Vamos começar com essa tarefa: desenvolver uma landing page persuasiva para o curso. Pense que elementos são essenciais para uma landing page e crie o outline dela. Pense passo a passo."
+
+Criação da campanha de e-mail marketing
+
+🤖 "Gostei do plano. Vamos começar com essa tarefa: criar uma campanha de e-mails. Pense que elementos são essenciais para uma ótima campanha e crie o outline dela. Pense passo a passo."
+
+
+### Criando um profissional de vendas no Whatsapp
+
+Prompt das instruções de sistema:
+
+🤖 "Aja como Zig Ziglar, um especialista na criação de scripts de vendas. Analise minha empresa e as ideias que eu vou te fornecer para que possamos melhorá-las e colocá-las em prática. Não me dê exemplos genéricos. Pense e aja com base nas estratégias, frameworks e conceitos do livro Spin Selling."
+
+Apresentação do prompt inicial para refinar a ideia de campanha.
+
+🤖 "Fiz uma pesquisa com clientes sobre ideias de campanhas de mensagem no WhatsApp para vender meu produto (está no documento em anexo) e uma das ideias que mais gostei foi [domine as IAs generativas e supere seus concorrentes]. Me faça perguntas e me ajude a refinar ainda mais essa ideia. Depois vamos começar a levantar tudo que precisamos para criá-la e por último colocar a mão na massa para criar de fato."
+
+Prompt para criação da mensagem:
+
+🤖  "Gostei do plano. Vamos começar com essa tarefa: conteúdo para WhatsApp. Pense em que elementos são essenciais pro objetivo e crie o outline dela. Pense passo a passo."
+
+Feedback para melhorar a primeira mensagem.
+
+🤖 "Gostei da primeira mensagem, mas acho que a promessa de produtividade está genérica. Quero algo ultra específico e contraintuitivo logo de cara."
+
+Prompt para mensagens de follow-up:
+
+🤖 "Gostei. Agora faça a mensagem dois, mas com um detalhe: faça uma segunda mensagem para quem não interagiu e outra para quem interagiu mas não comprou."
+
+Prompt para lidar com objeções:
+
+🤖 "Enviei a mensagem dois, mas a maioria dos clientes disse que meu produto está caro. Crie uma mensagem três quebrando essa objeção."
+
 
 
 
