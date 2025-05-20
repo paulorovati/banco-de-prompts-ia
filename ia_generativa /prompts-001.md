@@ -1,6 +1,6 @@
 # Você pode "Adaptar" esses prompts para qualquer área e situação!
 
-## Prompts para Marketing
+## IA para Marketing
 
 ### 4Is para Prompts Perfeitos: Criando Posts Virais no Instagram
 
